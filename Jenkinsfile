@@ -12,7 +12,7 @@ pipeline {
 			
 			steps {
 			
-			echo "Hello World"
+			echo "this is my stage-1"
 			
 			}
 			
@@ -56,7 +56,7 @@ pipeline {
 			
 			steps {
 			
-			echo "Hello World"
+			echo "this is my stage-3"
 			
 			}
 			
